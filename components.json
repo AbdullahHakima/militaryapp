@@ -1,0 +1,10 @@
+{
+  "style": "default",
+
+  "rsc": false,
+  "tsx": true,
+  "aliases": {
+    "utils": "~/lib/utils",
+    "components": "~/components"
+  }
+}
